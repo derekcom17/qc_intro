@@ -1,3 +1,7 @@
+# Shor's Algorithm Project Repo! 
+
+
+
 # Intro to Quantum Computing
 
 View `Tutorial_py-primer.ipynb` for an introduction to python, numpy, and matplotlib.
